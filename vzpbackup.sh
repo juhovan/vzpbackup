@@ -23,10 +23,10 @@
 ##
 
 SUSPEND=no
-BACKUP_DIR=/store/vzpbackup
-WORK_DIR=/store/vzpbackup
-COMPRESS=no
-COMPACT=0
+BACKUP_DIR=/vz/backup
+WORK_DIR=/vz/backup
+COMPRESS=bz
+COMPACT=1
 TTL=0
 
 ##
