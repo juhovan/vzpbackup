@@ -25,7 +25,7 @@
 SUSPEND=no
 BACKUP_DIR=/vz/backup
 WORK_DIR=/vz/backup
-COMPRESS=bz
+COMPRESS=xz
 COMPACT=1
 TTL=0
 
